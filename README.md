@@ -1,1 +1,1 @@
-# Tensor-Rings
+# Tensor-Rings for Quantum Circuits
